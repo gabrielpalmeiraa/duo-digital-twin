@@ -1,0 +1,17 @@
+[
+  {
+    "id": "3c83a217-d27e-49ee-8c4a-7a30e4d13b20",
+    "criado_em": "2026-05-09T16:21:09.263546",
+    "tag": "EQ-001",
+    "modelo": "WEG W22",
+    "fabricante": "WEG",
+    "num_serie": "SN-2024-001",
+    "ano_fabricacao": 2023,
+    "potencia_kw": 15.0,
+    "tensao_v": 380,
+    "corrente_a": 28.5,
+    "rotacao_rpm": 1750,
+    "fator_potencia": 0.92,
+    "observacoes": "Motor elétrico trifásico WEG W22 utilizado na linha de beneficiamento de café. Monitorado pelo sistema DUO para detecção de anomalias e manutenção preditiva."
+  }
+]
