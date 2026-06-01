@@ -109,7 +109,7 @@ col_img, col_ficha = st.columns([1, 2])
 
 with col_img:
     st.image(
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/WEG_Motor_nameplate.jpg/320px-WEG_Motor_nameplate.jpg",
+    "https://static.grainger.com/rp/s/is/image/Grainger/6FDP6_1",
         caption="Placa WEG W22 — extraída via visão computacional",
         use_container_width=True
     )
