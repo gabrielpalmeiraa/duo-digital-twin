@@ -1,6 +1,7 @@
-# DUO — Gêmeo Digital para Beneficiamento do Café
+# DUO — Gêmeo Digital
 
-**FIAP · Forzy Challenge · Sprint 2**
+**FIAP · Forzy Challenge · Sprint 3
+**
 
 ## Sobre o Projeto
 Sistema de gêmeo digital para monitoramento do motor WEG W22 utilizado na linha de beneficiamento de café. Desenvolvido como parte do Forzy Challenge na FIAP.
